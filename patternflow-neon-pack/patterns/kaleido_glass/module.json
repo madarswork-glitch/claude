@@ -1,0 +1,8 @@
+{
+  "name": "Kaleido Glass",
+  "namespace": "KaleidoGlass",
+  "author": "madarswork + Claude",
+  "license": "CC-BY-SA-4.0",
+  "abi": 2,
+  "knobs": ["spin", "mirrors", "zoom", "palette"]
+}

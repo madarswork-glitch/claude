@@ -1,0 +1,8 @@
+{
+  "name": "Neon Circuit",
+  "namespace": "NeonCircuit",
+  "author": "madarswork + Claude",
+  "license": "CC-BY-SA-4.0",
+  "abi": 2,
+  "knobs": ["flow", "tile", "rewire", "palette"]
+}

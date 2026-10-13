@@ -1,0 +1,8 @@
+{
+  "name": "Warp Tunnel",
+  "namespace": "WarpTunnel",
+  "author": "madarswork + Claude",
+  "license": "CC-BY-SA-4.0",
+  "abi": 2,
+  "knobs": ["speed", "twist", "curve", "palette"]
+}

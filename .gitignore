@@ -1,2 +1,8 @@
 node_modules/
 .env
+
+# Patternflow pack: build output and per-pattern preview GIFs (regenerate with tools/pf.py)
+patternflow-neon-pack/.build/
+patternflow-neon-pack/previews/*.gif
+!patternflow-neon-pack/previews/overview-*.gif
+patternflow-neon-pack/tools/__pycache__/

@@ -1,0 +1,8 @@
+{
+  "name": "Tesseract",
+  "namespace": "Tesseract",
+  "author": "madarswork + Claude",
+  "license": "CC-BY-SA-4.0",
+  "abi": 2,
+  "knobs": ["spin", "distance", "trails", "palette"]
+}
